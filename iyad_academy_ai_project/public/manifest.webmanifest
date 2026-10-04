@@ -1,0 +1,19 @@
+{
+  "name": "Iyad's Success Academy — أكاديمية إياد للنجاح",
+  "short_name": "Iyad Academy",
+  "description": "Tutoring academy in El Kantara, Algeria. Enroll, see the schedule and contact us.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "background_color": "#1a2480",
+  "theme_color": "#1a2480",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
